@@ -1,0 +1,45 @@
+h1 {
+	background-color: white;
+	font-family: Arial;
+	text-align: center;
+}
+h3 {
+	background-color: red;
+	color: white;
+	font-family: Arial;
+	text-align: center;
+	height: 40px;
+}
+body {
+	background-color: pink;
+	color: blue;
+	text-align: center;
+}
+table {
+	text-align: center;
+	background-color: lime;
+	color: black;
+	padding: 10px;
+}
+#blokada {
+	cursor: not-allowed;
+	background-color: pink;
+}
+#klepsydra {
+	cursor: wait;
+	background-color: white;
+}
+#reka {
+	cursor: hand;
+	background-color: black;
+	color: white;
+}
+#odwrot {
+	cursor: vertical-text;
+	background-color:red;
+	color: white;
+}
+h4 {
+	text-align: left;
+	color: red;
+}
